@@ -13,6 +13,8 @@
         <module>annotation-test</module>
         <module>design-pattern</module>
         <module>OOM</module>
+        <module>J2EE</module>
+        <module>redis</module>
     </modules>
 
     <dependencies>
