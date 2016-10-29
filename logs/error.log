@@ -1,0 +1,2 @@
+[INFO] [2016-10-30 00:23:11][com.kang.audit.logger.AuditLogger]com.kang.audit.bean.AuditFields@7daf6ecc
+[INFO] [2016-10-30 00:23:55][com.kang.audit.logger.AuditLogger]AuditFields{ip='null', fromType=null}

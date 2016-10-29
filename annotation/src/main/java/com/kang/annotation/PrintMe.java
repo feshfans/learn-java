@@ -7,9 +7,10 @@ import java.lang.annotation.RetentionPolicy;
 /**
  * Created by kang on 16-5-12.
  */
-
 @Retention(RetentionPolicy.CLASS)
 @SupportedSourceVersion(SourceVersion.RELEASE_6)
 public @interface PrintMe {
+
+
 
 }
